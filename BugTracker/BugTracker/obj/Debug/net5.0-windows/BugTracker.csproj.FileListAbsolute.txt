@@ -1,0 +1,16 @@
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.exe
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.deps.json
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.runtimeconfig.json
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.runtimeconfig.dev.json
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.dll
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\ref\BugTracker.dll
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net5.0-windows\BugTracker.pdb
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.csproj.AssemblyReference.cache
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.AssemblyInfoInputs.cache
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.AssemblyInfo.cs
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.dll
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\ref\BugTracker.dll
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.pdb
+C:\Users\vicul\Desktop\facu\pav\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net5.0-windows\BugTracker.genruntimeconfig.cache
